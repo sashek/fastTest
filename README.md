@@ -1,0 +1,4 @@
+fastTest
+========
+
+bat compares files
